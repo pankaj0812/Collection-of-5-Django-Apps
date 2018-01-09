@@ -1,0 +1,16 @@
+.clearfix{
+    clear: both;
+}
+.messages{
+    background-color: #c0c0c0;
+    color: #ffffff;
+    padding: 1em;
+}
+.success{
+    background-color: #008800;
+    border-color: #005500;
+    padding-left: 1em;
+}
+.alert-error{
+    background-color: rgba(255,0,0,0.5);
+}
